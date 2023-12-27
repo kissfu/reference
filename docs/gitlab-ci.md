@@ -1,7 +1,7 @@
 GitLab CI/CD 备忘清单
 ===
 
-本备忘单总结了 [GitLab CI/CD](https://docs.gitlab.com/ee/ci/yaml/#default) 常用的配置说明，以供快速参考
+本备忘单总结了 [GitLab CI/CD](https://docs.gitlab.com/ee/ci/yaml/#default) 常用的配置说明，以供快速参考.
 
 入门
 ---
