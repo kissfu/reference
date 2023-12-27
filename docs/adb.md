@@ -1,7 +1,7 @@
 Android Debug Bridge 备忘清单
 ===
 
-[ADB](https://developer.android.com/studio/command-line/adb.html) 既 Android Debug Bridge，是 Google 的 Android SDK 中的一个命令行工具，可让您的计算机控制 Android 设备执行各种设备操作。以下是您可以与 [ADB](https://developer.android.com/studio/command-line/adb.html) 一起使用的一些最常见的命令及其用法
+[ADB](https://developer.android.com/studio/command-line/adb.html) 既 Android Debug Bridge，是 Google 的 Android SDK 中的一个命令行工具，可让您的计算机控制 Android 设备执行各种设备操作。以下是您可以与 [ADB](https://developer.android.com/studio/command-line/adb.html) 一起使用的一些最常见的命令及其用法.
 
 入门
 ----
